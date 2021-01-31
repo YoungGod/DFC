@@ -14,6 +14,6 @@ Extensive experiments have been carried out to validate the effectiveness of our
 
 # Qualitatve Resutls
 ## On MVTec AD dataset
-![image](https://github.com/YoungGod/DFR/tree/master/figs/visualization_comparision_objects.jpg)
-![image](https://github.com/YoungGod/DFR/tree/master/figs/visualization_comparision_textures.jpg)
+![image](https://github.com/YoungGod/DFC/tree/master/figs/visualization_comparision_objects.jpg)
+![image](https://github.com/YoungGod/DFC/tree/master/figs/visualization_comparision_textures.jpg)
 
