@@ -19,6 +19,7 @@ Extensive experiments have been carried out to validate the effectiveness of our
 ![image](https://github.com/YoungGod/DFC/tree/master/figs/visualization_comparision_textures.jpg)
 
 # Citation
+```
 @article{YANG2022108874,
 title = {Learning Deep Feature Correspondence for Unsupervised Anomaly Detection and Segmentation},
 journal = {Pattern Recognition},
