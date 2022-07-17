@@ -18,8 +18,8 @@ Extensive experiments have been carried out to validate the effectiveness of our
 ![image](https://github.com/YoungGod/DFC/tree/master/figs/visualization_comparision_objects.jpg)
 ![image](https://github.com/YoungGod/DFC/tree/master/figs/visualization_comparision_textures.jpg)
 
-# Datasets
-![BottleCap](https://www.dropbox.com/s/t3wlmw3j5x9lpyh/wine.zip?dl=0)
+# Dataset Download
+BottleCap dataset can be download from [dropbox](https://www.dropbox.com/s/t3wlmw3j5x9lpyh/wine.zip?dl=0) or
 [baidu](https://pan.baidu.com/s/1QAxKmFXy45GQx9fIuwg2GA) with pass code: yjyj
 
 # Citation
