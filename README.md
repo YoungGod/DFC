@@ -1,8 +1,7 @@
 # Deep Feature Correspondence (DFC)
 Project: Unsupervised Anomaly Detection and Segmentation via Deep Feature Correspondence
 
-Souce code for the paper "Learning Deep Feature Correspondence for Unsupervised Anomaly Detection and Segmentation".
-`Coming soon...`
+Souce code for the paper published in PR Journal "Learning Deep Feature Correspondence for Unsupervised Anomaly Detection and Segmentation".
 
 ## Introduction
 Developing machine learning models that can detect and localize the unexpected or anomalous structures within images is very important for numerous computer vision tasks, such as the defect inspection of manufactured products.
