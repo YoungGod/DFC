@@ -2,6 +2,7 @@
 Project: Unsupervised Anomaly Detection and Segmentation via Deep Feature Correspondence
 
 Souce code for the paper published in PR Journal "Learning Deep Feature Correspondence for Unsupervised Anomaly Detection and Segmentation".
+Download from [here](https://www.sciencedirect.com/science/article/abs/pii/S0031320322003557) or [researchgate](https://www.researchgate.net/publication/361590849_Learning_Deep_Feature_Correspondence_for_Unsupervised_Anomaly_Detection_and_Segmentation)
 
 ## Introduction
 Developing machine learning models that can detect and localize the unexpected or anomalous structures within images is very important for numerous computer vision tasks, such as the defect inspection of manufactured products.
